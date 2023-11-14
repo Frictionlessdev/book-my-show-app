@@ -9,4 +9,5 @@ public class ActorDTO {
     private String name;
     private String picture;
     private String about;
+    private String rating;
 }
