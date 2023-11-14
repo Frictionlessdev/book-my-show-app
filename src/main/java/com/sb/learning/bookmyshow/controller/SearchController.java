@@ -7,6 +7,6 @@ import java.util.List;
 
 public class SearchController {
     public List<EventDTO> search(SearchCriteriaDTO searchCriteria){
-
+        return null;
     }
 }
