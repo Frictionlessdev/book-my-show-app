@@ -1,5 +1,6 @@
 package com.sb.learning.bookmyshow.controller;
 
+import com.sb.learning.bookmyshow.model.ActorDTO;
 import com.sb.learning.bookmyshow.model.EventDTO;
 import com.sb.learning.bookmyshow.model.SearchCriteriaDTO;
 
@@ -17,4 +18,9 @@ public class SearchController {
     public EventDTO getEvent(String name){
         return null;
     }
+
+    public void addActor(ActorDTO actor){
+        return;
+    }
+
 }
