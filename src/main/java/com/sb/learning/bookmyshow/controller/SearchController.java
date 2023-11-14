@@ -10,7 +10,11 @@ public class SearchController {
         return null;
     }
 
-    public void addEvent(EventDTO event){
+    public void addEvent(EventDTO event) {
         return;
+    }
+
+    public EventDTO getEvent(String name){
+        return null;
     }
 }
