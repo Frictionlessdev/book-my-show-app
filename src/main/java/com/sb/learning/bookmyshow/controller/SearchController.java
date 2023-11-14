@@ -9,4 +9,8 @@ public class SearchController {
     public List<EventDTO> search(SearchCriteriaDTO searchCriteria){
         return null;
     }
+
+    public void addEvent(EventDTO event){
+        return;
+    }
 }
